@@ -1,0 +1,24 @@
+{
+  "appsInfo": [{
+    "smallIconURL": "http://172.17.0.2/apps/sampleApp.png",
+    "offlineAppURL": "http://172.17.0.2/apps/sampleApp.gmpkg",
+    "icon": "http://172.17.0.2/apps/sampleApp.png",
+    "appId": 1105,
+    "shortDescription": null,
+    "unpackedSize": 25296896,
+    "developer": "GoBlue!",
+    "longDescription": null,
+    "largeIconURL": "http://172.17.0.2/apps/sampleApp.png",
+    "name": "#TechNStuff",
+    "category": [],
+    "publishedDate": "",
+    "screenshots": null,
+    "offlineLicenseURL": "http://172.17.0.2/apps/sampleApp.gmauth",
+    "versionString": "0.1.36"
+  }],
+  "totalCount": 1,
+  "indexStart": 0,
+  "indexEnd": 7,
+  "returned": 8,
+  "statusCode": 200
+}
